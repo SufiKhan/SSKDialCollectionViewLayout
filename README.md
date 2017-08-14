@@ -31,3 +31,14 @@
 
 ![zoom](https://user-images.githubusercontent.com/13538306/29263227-98024750-80f5-11e7-9e79-a30a798a23bc.gif)
 
+**Basic**
+
+```
+        layout.needsDial = false
+        layout.needsZoom = false
+
+```
+
+![basic](https://user-images.githubusercontent.com/13538306/29263339-f99d1378-80f5-11e7-81c0-66f2a44031fb.gif)
+
+
