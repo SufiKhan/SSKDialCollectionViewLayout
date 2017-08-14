@@ -26,11 +26,11 @@
        layout.needsDial = false
        layout.needsZoom = true
 
-```![zoom](https://user-images.githubusercontent.com/13538306/29262912-354e1dec-80f4-11e7-9b52-c19e27aeafed.gif)
+![zoom](https://user-images.githubusercontent.com/13538306/29262912-354e1dec-80f4-11e7-9b52-c19e27aeafed.gif)
 
        **Basic**
 ```
        layout.needsDial = false
        layout.needsZoom = false
 
-```![basic](https://user-images.githubusercontent.com/13538306/29262952-64930a4a-80f4-11e7-8b64-be1ba6dffd9b.gif)
+![basic](https://user-images.githubusercontent.com/13538306/29262952-64930a4a-80f4-11e7-8b64-be1ba6dffd9b.gif)
