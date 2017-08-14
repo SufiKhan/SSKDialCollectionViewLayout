@@ -18,8 +18,8 @@ class ViewController: UIViewController,UICollectionViewDataSource,UICollectionVi
         super.viewDidLoad()
         
         let layout = RotaryFLowLayout()
-        layout.needsDial = false
-        layout.needsZoom = false
+        layout.needsDial = true
+        layout.needsZoom = true
         layout.minimumInteritemSpacing = 10
         layout.minimumLineSpacing = 10
         layout.itemSize = CGSize(width: 90, height: 90)
