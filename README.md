@@ -19,14 +19,6 @@
         layout.needsZoom = true
 
 ```
-![dial](https://user-images.githubusercontent.com/13538306/29262880-15b5a45a-80f4-11e7-8ece-772b6505fad5.gif)
-
-      **Zoom and basic**
-```
-       layout.needsDial = false
-       layout.needsZoom = true
-
-![zoom](https://user-images.githubusercontent.com/13538306/29262912-354e1dec-80f4-11e7-9b52-c19e27aeafed.gif)
 
        **Basic**
 ```
