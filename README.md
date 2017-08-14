@@ -13,16 +13,10 @@
         _collectionView.collectionViewLayout = layout
 
 
-       **Up and down Dial layout**
+  **Up and down Dial layout**
 ```
         layout.needsDial = true
         layout.needsZoom = true
 
 ```
-
-       **Basic**
-```
-       layout.needsDial = false
-       layout.needsZoom = false
-
-![basic](https://user-images.githubusercontent.com/13538306/29262952-64930a4a-80f4-11e7-8b64-be1ba6dffd9b.gif)
+![dial](https://user-images.githubusercontent.com/13538306/29262880-15b5a45a-80f4-11e7-8ece-772b6505fad5.gif)
